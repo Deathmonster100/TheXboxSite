@@ -1,6 +1,8 @@
 body{
 	margin-bottom: 80px;
-	background-color: #009900;
+	-webkit-background: linear-gradient(to right, #00e600, #141517);
+	-moz-background: linear-gradient(to right, #00e600, #141517);
+	background: linear-gradient(to right, #00e600, #141517); 
 }
 .page-header{
 	margin-top: 0;
@@ -22,13 +24,14 @@ body{
 }
 .jumbotron{
 	background-color: black;
+	border: 10px inset #00e600; 
 }
 .color{
 	color: white;
 }
 .color1{
-	color: #1a1a1a;
-
+	color: black;
+	font-size: 15px;
 }
 .fontsize{
 	font-size: 16px;
