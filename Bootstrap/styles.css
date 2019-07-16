@@ -17,7 +17,8 @@ body{
 #my-image-div{
 	background-image: url("img/XboxLogo1.jpg");
 	background-size: cover;
-	border: 10px inset #00e600;
+	border: 10px inset #333333; 
+
 }
 #my-image-div{
 	height: 400px;
@@ -25,6 +26,9 @@ body{
 .jumbotron{
 	background-color: black;
 	border: 10px inset #00e600; 
+	-webkit-background: linear-gradient(to right, black, #333333);
+	-moz-background: linear-gradient(to right, black, #333333);
+	background: linear-gradient(to right, black, #333333); 
 }
 .color{
 	color: white;
