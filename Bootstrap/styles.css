@@ -1,0 +1,39 @@
+body{
+	margin-bottom: 80px;
+	background-color: #009900;
+}
+.page-header{
+	margin-top: 0;
+}
+.panel-body{
+	padding-top: 0;
+}
+.featuredImg{
+	margin-bottom: 15px;
+	width: 100%
+}
+#my-image-div{
+	background-image: url("img/Xbox Logo.jpg");
+	background-size: cover;
+	border: 10px inset #00e600;
+}
+#my-image-div{
+	height: 400px;
+}
+.jumbotron{
+	background-color: black;
+}
+.color{
+	color: white;
+}
+.color1{
+	color: #1a1a1a;
+
+}
+.fontsize{
+	font-size: 16px;
+}
+.url-size{
+	font-size: 14px;
+}
+	
