@@ -13,7 +13,7 @@ body{
 	width: 100%
 }
 #my-image-div{
-	background-image: url("img/Xbox Logo.jpg");
+	background-image: url("img/XboxLogo1.jpg");
 	background-size: cover;
 	border: 10px inset #00e600;
 }
@@ -36,4 +36,7 @@ body{
 .url-size{
 	font-size: 14px;
 }
-	
+.margin{
+	padding-top: 90px;
+	padding-left: 70px;
+}
